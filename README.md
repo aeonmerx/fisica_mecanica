@@ -92,3 +92,9 @@ donde:
 - R es el radio de la trayectoria circular.
 - ω es la velocidad angular.
 ### Visualización: Se grafica la trayectoria circular del objeto.
+
+
+
+```
+http://aeonmerx.eastus.cloudapp.azure.com:8080/uploads/simulaciones-de-movimiento-en-fisica-con-python.html
+
