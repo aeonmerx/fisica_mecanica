@@ -16,7 +16,7 @@ Donde:
 - \( x \) es el desplazamiento (en metros).
 
 ## Cómo Usar el Código
-
+Codigo: https://github.com/aeonmerx/fisica_mecanica/blob/main/Fisica.py
 1. **Instalación**: Asegúrate de tener instaladas las librerías necesarias ejecutando:
 
 ```bash
