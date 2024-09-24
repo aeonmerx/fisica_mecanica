@@ -20,7 +20,7 @@ Donde:
 1. **Instalación**: Asegúrate de tener instaladas las librerías necesarias ejecutando:
 
 ```bash
-!pip install nump
+!pip install numpy
 
 
 # Simulación de Movimientos en Física
