@@ -7,9 +7,7 @@ Este proyecto contiene una simulación sencilla del **Movimiento Rectilíneo Uni
 ## Ecuación Utilizada
 
 La ecuación para calcular el desplazamiento en MRUA es:
-$$
-x = v_0 \cdot t + \frac{1}{2} \cdot a \cdot t^2
-$$
+![image](https://github.com/user-attachments/assets/37de4cf2-34ad-4ce9-91b5-c61873c282b8)
 
 
 $
