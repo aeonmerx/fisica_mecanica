@@ -9,13 +9,6 @@ Este proyecto contiene una simulación sencilla del **Movimiento Rectilíneo Uni
 La ecuación para calcular el desplazamiento en MRUA es:
 ![image](https://github.com/user-attachments/assets/37de4cf2-34ad-4ce9-91b5-c61873c282b8)
 
-
-$
-
-
-\]
-
-
 Donde:
 - \( v_0 \) es la velocidad inicial del objeto (en m/s).
 - \( a \) es la aceleración constante (en m/s²).
